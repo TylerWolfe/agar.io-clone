@@ -2,7 +2,7 @@
     "port": 3000,
     "foodMass": 10,
     "fireFood": 15,
-    "limitSplit": 100,
+    "limitSplit": 16,
     "defaultPlayerMass": 15,
     "gameWidth": 5000,
     "gameHeight": 5000,
