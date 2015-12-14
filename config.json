@@ -7,7 +7,7 @@
     "gameWidth": 5000,
     "gameHeight": 5000,
     "adminPass": "DEFAULT",
-    "gameMass": 12000,
+    "gameMass": 20000,
     "maxFood": 1250,
     "slowBase": 4.5,
     "logChat": 0,
